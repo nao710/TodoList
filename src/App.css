@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,100&family=Poppins:ital,wght@0,200;1,300&display=swap');
+
+
+*{
+  font-family: Poppins;
+  text-align: center;
+  white-space: nowrap;
+}
+
+h1 {
+  margin: auto;
+  padding: 2rem;
+  font-size: 3rem;
+}
+
+.Input{
+  flex: 1;
+  padding: 10px;
+  border-radius: 8px 8px 8px 8px;
+  border: 1px solid #ccc;
+  outline: none;
+}
+
+table{
+  padding-top: 1.4rem;
+}
+
+.Task{
+  margin: auto;
+  width: 2rem;
+}
+td{
+  padding-left: 1.4rem;
+}
+
+
+
+
